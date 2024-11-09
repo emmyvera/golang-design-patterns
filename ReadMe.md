@@ -27,7 +27,7 @@ To try out these patterns, you'll need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/golang-design-patterns.git
+   git clone https://github.com/emmyvera/golang-design-patterns.git
    cd golang-design-patterns
 
 ## Key Takeaways
@@ -37,5 +37,5 @@ Structuring code to enhance reusability and readability
 Handling complex object creation in a simplified manner
 Managing concurrency efficiently with Go's goroutines and channels
 
-Acknowledgments
+## Acknowledgments
 Thanks to Trevor Sawler (Ph.D.) creator of Streamline your development by learning how common design patterns are implement in Go on Udemy for providing a solid foundation in Golang design patterns and best practices.
